@@ -1,0 +1,17 @@
+D:\coding\visual stdio\input_box\input_box\bin\Debug\net7.0-windows\input_box.exe
+D:\coding\visual stdio\input_box\input_box\bin\Debug\net7.0-windows\input_box.deps.json
+D:\coding\visual stdio\input_box\input_box\bin\Debug\net7.0-windows\input_box.runtimeconfig.json
+D:\coding\visual stdio\input_box\input_box\bin\Debug\net7.0-windows\input_box.dll
+D:\coding\visual stdio\input_box\input_box\bin\Debug\net7.0-windows\input_box.pdb
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.vbproj.AssemblyReference.cache
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.Form1.resources
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.vbproj.GenerateResource.cache
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.AssemblyInfoInputs.cache
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.AssemblyInfo.vb
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.vbproj.CoreCompileInputs.cache
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.dll
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\refint\input_box.dll
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.pdb
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\input_box.genruntimeconfig.cache
+D:\coding\visual stdio\input_box\input_box\obj\Debug\net7.0-windows\ref\input_box.dll
