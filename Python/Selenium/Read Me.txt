@@ -1,0 +1,5 @@
+How to run :- 
+
+1) run "index.html" on a live server
+2) change url in python code if necessary
+3) rum python file.

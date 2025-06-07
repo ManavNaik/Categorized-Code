@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Digital Clock & Stopwatch",
+    "description": "A simple digital clock with a stopwatch. Shows current time, date, day, and provides a stopwatch with milliseconds.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "micon.png",
+        "48": "micon.png",
+        "128": "micon.png"
+      }
+    },
+    "icons": {
+      "16": "micon.png",
+      "48": "micon.png",
+      "128": "micon.png"
+    },
+    "permissions": []
+  }
+  
