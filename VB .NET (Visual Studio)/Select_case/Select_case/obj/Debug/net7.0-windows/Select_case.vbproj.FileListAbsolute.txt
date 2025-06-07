@@ -1,0 +1,17 @@
+D:\coding\visual stdio\Select_case\Select_case\bin\Debug\net7.0-windows\Select_case.exe
+D:\coding\visual stdio\Select_case\Select_case\bin\Debug\net7.0-windows\Select_case.deps.json
+D:\coding\visual stdio\Select_case\Select_case\bin\Debug\net7.0-windows\Select_case.runtimeconfig.json
+D:\coding\visual stdio\Select_case\Select_case\bin\Debug\net7.0-windows\Select_case.dll
+D:\coding\visual stdio\Select_case\Select_case\bin\Debug\net7.0-windows\Select_case.pdb
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.vbproj.AssemblyReference.cache
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.Form1.resources
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.vbproj.GenerateResource.cache
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.AssemblyInfoInputs.cache
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.AssemblyInfo.vb
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.vbproj.CoreCompileInputs.cache
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.dll
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\refint\Select_case.dll
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.pdb
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\Select_case.genruntimeconfig.cache
+D:\coding\visual stdio\Select_case\Select_case\obj\Debug\net7.0-windows\ref\Select_case.dll
